@@ -1,3 +1,4 @@
 import cowsay
 
-cowsay.cow("I am the holy cow!")
+cow_said = cowsay.cow("I am the holy cow!")
+print()
